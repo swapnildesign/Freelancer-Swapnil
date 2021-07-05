@@ -1,5 +1,4 @@
 Body{
-
 background-image:url(images/background-1.jpg);
 }
 
@@ -14,6 +13,7 @@ font-size: 50px;}
 
 section{
     display: flex;
+    margin: 50px;
 }
 .half-width{
     width: 50%;
